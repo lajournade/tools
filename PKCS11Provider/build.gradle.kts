@@ -23,3 +23,7 @@ tasks.jar {
 tasks.test {
     useJUnitPlatform()
 }
+
+dependencies {
+
+}
