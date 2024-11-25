@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "8fc9a276bd735d39",
+    "id": "d340c991cd7988da",
     "type": "split",
     "children": [
       {
-        "id": "83497f421299d762",
+        "id": "09458b269eeef48c",
         "type": "tabs",
         "children": [
           {
-            "id": "7b2ca7253d23d2d6",
+            "id": "1fb50fdf94ea4dd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Skin care/CC Red Correct.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CC Red Correct"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "92e7a1ca85d25867",
+    "id": "4260f685885a0e96",
     "type": "split",
     "children": [
       {
-        "id": "d9aad6e90b575bfe",
+        "id": "8e1a903ac399264f",
         "type": "tabs",
         "children": [
           {
-            "id": "9ee07c73d8157f82",
+            "id": "b9f3031f626fe9ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +47,7 @@
             }
           },
           {
-            "id": "6420fbf73945c52b",
+            "id": "6cf87efe06d4ccc2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +64,7 @@
             }
           },
           {
-            "id": "a5f732c64425ec0a",
+            "id": "a751a1865ea99028",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,19 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "821583605ccf068b",
+    "id": "43b53a4693d0f3f7",
     "type": "split",
     "children": [
       {
-        "id": "181c1cc4b7cd884a",
+        "id": "33a98272d2ee91c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3d624d76664aed33",
+            "id": "48b0e7e81d41a74e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 - Resources/Skin care/CC Red Correct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CC Red Correct"
             }
           },
           {
-            "id": "61932ef0df71b2b9",
+            "id": "a481c80f4cda3384",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 - Resources/Skin care/CC Red Correct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from CC Red Correct"
             }
           },
           {
-            "id": "667044f68286ddc6",
+            "id": "d66f13681bb5ca5a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,13 +134,15 @@
             }
           },
           {
-            "id": "7acbc86642ab53d1",
+            "id": "a4fd52e492bf19a0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "03 - Resources/Skin care/CC Red Correct.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CC Red Correct"
             }
           }
         ]
@@ -154,16 +162,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ee07c73d8157f82",
+  "active": "1fb50fdf94ea4dd3",
   "lastOpenFiles": [
+    "03 - Resources/Skin care/emulsifying.md",
+    "03 - Resources/Skin care/PEG-10 DIMETHICONE.md",
+    "03 - Resources/Skin care/CC Red Correct.md",
+    "Zinc Oxide.md",
+    "skin-identical ingredient.md",
+    "03 - Resources/Skin care/Glycerin.md",
+    "03 - Resources/Skin care/CC Red Correct.md~",
+    "03 - Resources/Skin care/Cyclomethicone.md",
+    "03 - Resources/Skin care/CI 77891 - TITANIUM DIOXIDE.md",
+    "03 - Resources/Skin care/solvant.md",
+    "03 - Resources/Skin care/DIPROPYLENE GLYCOL.md",
+    "03 - Resources/Skin care/ETHYLHEXYL METHOXYCINNAMATE.md",
+    "03 - Resources/Skin care/sunscreen.md",
+    "03 - Resources/Skin care/emollient.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Skin-Care ingredient.md",
+    "CENTELLA ASIATICA EXTRACT.md",
+    "03 - Resources/Skin care/METHYL TRIMETHICONE.md",
+    "03 - Resources/Skin care/GLYCERIN.md",
+    "METHOXYCINNAMATE.md",
+    "Welcome.md",
+    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/Preloaded Classes",
+    "99 - Meta/00 - Templates",
     "99 - Meta",
+    "07 - Archives/Placeholder.md",
     "07 - Archives",
+    "06 - Daily/Placeholder.md",
     "06 - Daily",
     "05 - Fleeting",
     "04 - Permanent",
-    "03 - Resources",
-    "02 - Areas",
-    "01 - Projects",
-    "00 - Maps of Content"
+    "03 - Resources/Skin care",
+    "03 - Resources"
   ]
 }
