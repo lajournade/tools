@@ -5,9 +5,17 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+# ---------------------------------------
+# IMPROVE DEFAULTS COMMANDS
+# ---------------------------------------
 alias ls='ls --color=auto'
+alias ll="ls -la"
 alias grep='grep --color=auto'
 alias vi="nvim"
+
+# ---------------------------------------
+# GIT ALIAS
+# ---------------------------------------
 alias gs="git status"
 alias gl="git log"
 alias gc="git commit -m $1"
@@ -17,14 +25,18 @@ alias gb="git branch"
 alias ga="git add"
 alias gp="git push"
 alias gpf="git push --force"
-alias ll="ls -la"
 
-alias obsidian="/opt/Obsidian-1.7.7.AppImage"
+# ---------------------------------------
+# CUSTOM TERMINAL 
+# ---------------------------------------
+fastfetch --load-config examples/18
+eval "$(oh-my-posh init bash --config ~/.config/ohmyposh/catppuccin_latte.omp.json)"
 
+# ---------------------------------------
+# SOURCE APPLICATIONS  
+# ---------------------------------------
+export LOCAL_BIN="~/.local/bin/"
 export IDEA_HOME="/opt/idea-IC-242.23726.103"
 export JAVA_HOME="/usr/lib/jvm/java-21-openjdk"
-export PATH="$IDEA_HOME/bin:$JAVA_HOME/bin:$PATH"
+export PATH="$LOCAL_BIN:$IDEA_HOME/bin:$JAVA_HOME/bin:$PATH"
 
-##-----------------------------------------------------
-## Perso
-source ~/.bashrc_perso
