@@ -35,8 +35,8 @@ eval "$(oh-my-posh init bash --config ~/.config/ohmyposh/catppuccin_latte.omp.js
 # ---------------------------------------
 # SOURCE APPLICATIONS  
 # ---------------------------------------
-export LOCAL_BIN="~/.local/bin/"
-export IDEA_HOME="/opt/idea-IC-242.23726.103"
-export JAVA_HOME="/usr/lib/jvm/java-21-openjdk"
-export PATH="$LOCAL_BIN:$IDEA_HOME/bin:$JAVA_HOME/bin:$PATH"
+#export LOCAL_BIN="~/.local/bin/"
+#export IDEA_HOME="/opt/idea-IC-242.23726.103"
+#export JAVA_HOME="/usr/lib/jvm/java-21-openjdk"
+#export PATH="$LOCAL_BIN:$IDEA_HOME/bin:$JAVA_HOME/bin:$PATH"
 

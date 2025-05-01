@@ -30,7 +30,6 @@ replay_pid*
 .Xauthority
 .bash_history
 .bash_logout
-.bashrc
 .cache/
 .config/
 .ecryptfs
