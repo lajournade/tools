@@ -24,3 +24,31 @@ hs_err_pid*
 replay_pid*
 
 .idea
+
+# --- Home directory folders ---
+.Private
+.Xauthority
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.ecryptfs
+.gtkrc-2.0
+.gtkrc-xfce
+.lesshst
+.linuxmint/
+.local/
+.mozilla/
+.pki/
+.profile
+.ssh/
+.steam/
+.steampath
+.steampid
+.sudo_as_admin_successful
+.viminfo
+.wget-hsts
+.xsession-errors
+.xsession-errors.old
+Bureau/
