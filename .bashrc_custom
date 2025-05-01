@@ -11,20 +11,6 @@
 alias ls='ls --color=auto'
 alias ll="ls -la"
 alias grep='grep --color=auto'
-alias vi="nvim"
-
-# ---------------------------------------
-# GIT ALIAS
-# ---------------------------------------
-alias gs="git status"
-alias gl="git log"
-alias gc="git commit -m $1"
-alias gca="git commit --amend"
-alias gco="git checkout"
-alias gb="git branch"
-alias ga="git add"
-alias gp="git push"
-alias gpf="git push --force"
 
 # ---------------------------------------
 # CUSTOM TERMINAL 
