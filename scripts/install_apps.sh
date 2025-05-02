@@ -5,7 +5,7 @@ sudo apt update
 
 # --- apt packages ---
 echo "📦 Installation des paquets APT..."
-xargs -a apt_apps.txt sudo apt install -y
+xargs -a $(dirname $0)/apt_apps.txt sudo apt install -y
 
 # --- Discord ---
 if ! command -v discord &> /dev/null; then

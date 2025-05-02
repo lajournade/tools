@@ -1,6 +1,9 @@
 #!/bin/bash
 
 # [Global]
+
+git config --global user.email "lajournade@proton.le"
+git config --global user.name "lajournade"
 git config --global core.editor "vim"
 
 # [Alias]
